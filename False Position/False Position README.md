@@ -1,8 +1,8 @@
 False Position 
 =======
-#### Root finding method
+#### MATLAB function that uses the **False Position** numerical method to approximate the roots of a given function
 
-This is a MATLAB function that uses the **False Position** numerical method to approximate the roots of a given function. The False position method is a "closed method" which means the user has to input two "bounds" that bracket the root in question. Closed methods are more computationally expensive, but will always return an answer. 
+ The False position method is a "closed method" which means the user has to input two "bounds" that bracket the root in question. Closed methods are more computationally expensive, but will always return an answer. 
 ## How it works
 The logic behind the False Position method is to take two points on the function and connect them with a straight line. The point where the line crosses the x-axis is the first guess for the root. From there, the upper and lower bounds are tested with the root to find where a sign change occurs. The two points between which the sign change occurs become the new upper and lower bounds. As with any approximation, more iterations reslut in a more accureate estimate. This function has multiple optional inputs so the user can determine when the answer is accurate enough and the maximum possible number of iterations.
 
