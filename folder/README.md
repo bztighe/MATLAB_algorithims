@@ -1,5 +1,5 @@
 # MATLAB
-## numerical methods algorithyms
+## numerical methods algorithims
 
 This is a compilation of algorithims that I wrote using MATLAB. Each algorithim serves a different purpose, generally they are mathematically manipulated functions that allow (finitely limited) computers to do otherwise impossible (infinite) calculations. Its not suprising that each of these functions can be carried out using a smartphone, built-in MATLAB functions, or any data analytics software; but this collection isn't about the destination, but the journey! I specifically want to showcase my familiarity with MATLAB syntax, clever use of nested loops and indexing, and general logical approach to the problem solving process. 
 
