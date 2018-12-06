@@ -10,7 +10,6 @@ Composite Simpson 1/3 method can only be used on data sets with an odd number of
 
 ### Equation
       I=(b−a)(f(x0) + 4∑[i=1,3,5][n−1]f(xi) + 2∑[j=2,4,6][n−2]f(xj) + f(xn)) (1/3n)
-
 ### Inputs
       x: a vector containing evenly spaced integers as part of a data set
       y: a vector containing data from a set corresponding with x, or
