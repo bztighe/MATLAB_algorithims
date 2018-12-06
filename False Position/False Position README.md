@@ -1,6 +1,6 @@
 False Position 
 =======
-#### MATLAB function that uses the **False Position** numerical method to approximate the roots of a given function
+### MATLAB function that uses the **False Position** numerical method to approximate the roots of a function
 
 The False Postion method is used to approximate the "roots" or "zeros" of a function, which is where the dependent variable (traditionally Y) equals zero. The False position method is a "closed method" which means the user has to input two "bounds" that bracket the root in question. Closed methods are more computationally expensive, but will always return an answer. A copy of my code can be found [here](https://github.com/bztighe/MATLAB_algorithims/blob/master/False%20Position/falsePosition.m "Github Link").
 ## How it works
