@@ -18,5 +18,5 @@ Composite Simpson 1/3 method can only be used on data sets with an odd number of
 ### Output
       I: The simpson's 1/3 rule approximate integral value
     
-## Limitations
+### Notes
 The Simpson algorithm only works with the vector inputs of two experimental data sets. Additionally, the two vectors must be the same length with more than 3 data values. The independent (x) experimental data set must also be **equally spaced** in order for Simpson's rule to work.
