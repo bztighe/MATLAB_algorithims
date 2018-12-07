@@ -8,6 +8,7 @@ How it Works
 -----------------
 Composite Simpson 1/3 method can only be used on data sets with an odd number of entries (even number of segments between entries). If the given data has an even number of entries, my algorithim determines which end-interval has a more modest change in the dependent variable and applies the trapazoid rule to approximate the integral of that segment, before using composite Simpson 1/3 rule to approximate the rest of the data. 
 
+![atl text](https://github.com/bztighe/Images/blob/master/simpsons.png "Composite simpsons rule")
 ### Equation
       I=(b−a)(f(x0) + 4∑[i=1,3,5][n−1]f(xi) + 2∑[j=2,4,6][n−2]f(xj) + f(xn)) (1/3n)
 ### Inputs
