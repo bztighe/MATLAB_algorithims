@@ -6,6 +6,8 @@ The False Postion method is used to approximate the "roots" or "zeros" of a func
 ## How it works
 The logic behind the False Position method is to take two points on the function and connect them with a straight line. The point where the line crosses the x-axis is the first guess for the root. From there, the upper and lower bounds are tested with the root to find where a sign change occurs. The two points between which the sign change occurs become the new upper and lower bounds. As with any approximation, more iterations reslut in a more accureate estimate. This function has multiple optional inputs so the user can determine when the answer is accurate enough and the maximum possible number of iterations.
 
+![alt text](https://github.com/bztighe/Images/blob/master/false%20postion.png "false position")
+
 ### Equation 
    xr = xu-( ( f(xu) * (xl-xu) ) / ( f(xl) - f(xu) ) ) 
   
