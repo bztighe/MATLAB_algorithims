@@ -10,6 +10,8 @@ How it works
 
 First, my algorithim ensures that the user supplied matrix is in fact square. Next it builds nxn identity matricies as "empty" templates to fill in for the Lower matrix, a Pivot placeholder matrix, and an Identity matrix for determining the inverse. Next, it row-reduces the matrix to attain the Upper triangular matrix, while keeping track of pivots which are used to determine the Lower triangular matrix. I added an additional option for it to calculate the matrix inverse. 
 
+![alt text](https://github.com/bztighe/Images/blob/master/LU%20factor.png "MECH 105 sucked!!")
+
 ### Inputs
        A - coefficient matrix
        
