@@ -8,6 +8,8 @@ How it works
 --------------
 This method uses two equations known as the *predictor equation* and the *corrector equation*. The predictor equation uses the slope of a function at a point and uses it to  predict the slope at another point on the function exactly one 'step' (h) away. The corrector equation then takes the **average of both slopes** and applies it to the first point, thus making a substantially more accurate approximation.
 
+![alt text](https://github.com/bztighe/Images/blob/master/heuns.png "Heuns method (a) predictor (b) corrector" )
+
 ### Equations
 
     yn+1 = yn +  h f(xn, yn)
