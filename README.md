@@ -7,5 +7,5 @@ Feel free to use these quick links or browse through my repositories to view my 
 
 - [False Position](https://github.com/bztighe/MATLAB_algorithims/tree/master/False%20Position "Right click to open in new window") - Root finding method
 - [LU Decomposition](https://github.com/bztighe/MATLAB_algorithims/tree/master/Lower-Upper%20Triangle%20function "Right click to open in new window") - Linear Algebra method of manipulating square matricies
-- [Simpson Approximation](https://github.com/bztighe/MATLAB_algorithims/tree/master/Simpson%20Approximation, "Right click to open in new window") - Numerical Approximation of the integral of a Dataset
+- [Simpson Approximation](https://github.com/bztighe/MATLAB_algorithims/tree/master/Simpson%20Approximation "Right click to open in new window") - Numerical Approximation of the integral of a Dataset
 - [Heun's Method](https://github.com/bztighe/MATLAB_algorithims/tree/master/Heuns%20Method "Right click to open in new window") - Approximation of Ordinary Dfferential Equations
